@@ -20,7 +20,8 @@ We use a corpus of 30 Inaugural addresses of different US presidents. We process
 
 Using the tokens, we would like to compute the TF-IDF vector for each document. Given a query string, we can also calculate the query vector and calcuate similarity.
 
-<img src = 'weighting_scheme.png'>
+![weighting_scheme](https://github.com/user-attachments/assets/bb3d98ed-4d09-4433-a609-521e777c1000)
+
 
 The notation of a weighting scheme is as follows: ddd.qqq, where ddd denotes the combination used for document vector and qqq denotes the combination used for query vector.
 
