@@ -1,5 +1,5 @@
 
-# Programming Assignment 1 -> Varad Nair | 1002161475
+# © Varad Nair 
 
 import os
 import math
